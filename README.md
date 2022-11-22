@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="yuriJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="yuriTs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <img align="center" alt="yuriReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="yuriReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/scss-original.svg">
 </div>
   
   ##
